@@ -1,0 +1,6 @@
+# Ignoroidaan kaikki juurihakemistossa olevat sellaiset tiedostot, joilla on pääte .tmp
+/*.tmp
+
+# Ignoroidaan juurihakemistossa olevat seuraavat kansiot, sekä niiden sisällöt
+/__pycache__/
+/.pytest_cache/
